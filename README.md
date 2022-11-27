@@ -1,3 +1,11 @@
 # go static http server
 
-- goの組み込み型パッケージを使ってhttpサーバーを起動する
+- go の組み込み型パッケージを使って http サーバーを起動する
+
+## コマンド
+
+- 起動
+
+```shell
+go run ./main.go
+```
